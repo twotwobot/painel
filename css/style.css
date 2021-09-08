@@ -1,0 +1,41 @@
+div.card {
+        text-align: center;
+        width: 250px;
+        position: fixed;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+div.card-title {
+    font-weight: bold;
+	margin: 3;
+}
+input {
+    background-color: #eee;
+	border: none;
+	padding: 10px 15px;
+	margin: 5px 0;
+	width: 100%;
+}
+body {
+    background-color: rgb(34, 34, 33);
+}
+footer {
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    left: 40;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+button {
+    text-align: center;
+    margin: 3px 0;
+	width: 100%;
+}
+a{
+    text-align: center;
+    margin: 3px 0;
+	width: 100%;
+}
